@@ -5,14 +5,7 @@
 
 Ditto is an extension to the standard windows clipboard. It saves each item placed on the clipboard allowing you access to any of those items at a later time. Ditto allows you to save any type of information that can be put on the clipboard, text, images, html, custom formats.
 
-
-1. [Installer](https://github.com/sabrogden/Ditto/releases/download/3.25.113.0/DittoSetup_3_25_113_0.exe)
-2. [Portable](https://github.com/sabrogden/Ditto/releases/download/3.25.113.0/DittoPortable_3_25_113_0.zip)
-3. [Chocolatey](https://chocolatey.org/packages/ditto/3.23.124.0) choco install ditto
-4. [Chocolatey Portable](https://chocolatey.org/packages/ditto.portable/3.23.124.0) choco install ditto.portable
-5. [Winget](https://winget.run/pkg/Ditto/Ditto) winget install -e --id Ditto.Ditto
-6. [Windows Store App](https://www.microsoft.com/en-us/store/p/ditto-cp/9nblggh3zbjq)  
-
+## REMOVED ALL THE DOWNLOAD LINKS, DUE TO ONLY THE MASTER REPO BEING ABLE TO HAVE THEM (probbably)
 
 ## Basic Usage
 
